@@ -1,0 +1,125 @@
+<html>
+ <head>
+	<title>Pandora</title>
+	<link rel="shorcut icon" href="logo.png">
+	<link rel="stylesheet" href="estilo22.css">
+ </head>
+	<body>
+		<div class="div1">
+		<img  class="tam7" src=pandora2.png>
+	<h1>
+	<h1 id="fuente-digital">
+		Pandora
+	</h1>
+	<h1>
+		<h1 id="fuente-digital">
+			¡Momentos Inolvidables!
+	</h1>
+		</div>
+	</h1>
+	<hr>
+		<div class="div4">
+	<br>
+	<h1>
+
+	<font>
+	<h1 id="fuente-digital">
+		Acerca de Nosotros
+	</h1>
+	</font>
+	</h1>
+	<br>
+	<center>
+	<li>
+	<b>
+	<font class="sen">
+
+	<h1 id="fuente-digital">
+		Nuestra Historia
+	</h1>
+	</font>
+	</b>
+	</li>
+	</center>
+	<p>
+	<h1 id="fuente-digital">
+		Creada en  1982 como una pequeña joyería en Dinamarca, inició sus andaduras exportando joyas directamente de Tailandia. Con el tiempo, se estableció en el país asiático y construyó varias de sus fábricas en él.
+	</h1>
+	<center>
+		<img src=Historia.jpg class="tam3">
+	</center>
+	</p>
+	<br>
+	<center>
+	<li>
+	<b>
+	<font class="sen">
+	<h1 id="fuente-digital">
+		Nuestra Mision
+	</h1>
+	</font>
+	</b>
+	</li>
+	</center>
+	<br>
+	<p>
+	<h1 id="fuente-digital">
+		Hoy y siempre – es ofrecer a todas las mujeres del mundo un maravilloso universo de joyería, cuyas piezas se elaboran de forma artesanal, utilizando materiales de primera calidad y a un precio asequible
+  </h1>
+  <center>
+		<img src=mision.jpg class="tam3">
+	</p>
+	<br>
+	</center>
+	<center>
+	<li>
+	<b>
+	<font class="sen">
+		<h1 id="fuente-digital">
+		Nuestra Vision
+	</h1>
+	</font>
+	</b>
+	</li>
+	</center>
+	<br>
+	<p>
+	<h1 id="fuente-digital">
+		Ser el fabricante de marca que ofrece la experiencia mas personal.
+</h1>
+<center>
+<img src=vision.jpg class="tam3">
+</center>
+</p>
+   </div>
+<div class="div3">
+<table class="sin">
+<tr class="sin">
+<td class="sin"> <A href="principal22.html">
+<img src=principal2.jpg class="tam2"></A></td>
+
+<td class="sin"> <A href="historia22.html">
+<img src=dinamarca.jpg class="tam2"></A></td>
+
+<td class="sin"> <A href="productos22.html">  
+<img src=productos.jpg class="tam2"></A></td>
+
+<td class="sin"> <A href="contacto22.html">  
+<img src=contacto.png class="tam2"></A></td>
+</tr>
+</div>
+</table>
+
+<br>
+<br>
+<div class="div4">
+<center>
+&copy;2022. Derechos Reservados.<br>
+Desarrollado por: Lucia Saralyn Trujillo Alcala <br>
+Matricula: 01908610 <br>
+Grupo: 605 <br>
+Plantel Nueva Tijuana
+</center>
+</div>
+   </body>
+</html>
